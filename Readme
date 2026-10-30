@@ -1,0 +1,20 @@
+# Apps
+
+A collection of four apps. Download the apps from the [Releases page](../../releases).
+
+## Available apps
+
+| App | Description |
+| --- | --- |
+| **QRCode_Coder** | Create QR codes. |
+| **QRCode_Scanner** | Scan QR codes. |
+| **TextEditor** | Edit text. |
+| **Voice_Dictate** | Dictate text using your voice. |
+
+## Download
+
+1. Open the [Releases page](../../releases).
+2. Select the latest release.
+3. Under **Assets**, download the file for the app you want.
+
+Each app is available as a separate download.
